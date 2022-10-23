@@ -220,6 +220,7 @@ h6 {
   width: 100%;
   height: 100vh;
   background-image: url("../img/20180926_144826.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
